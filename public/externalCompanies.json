@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Tech Innovators",
+      "location": "San Francisco, CA",
+      "title": "Leading Edge Technology Solutions",
+      "description": "Tech Innovators specializes in cutting-edge technology solutions that drive business success.",
+      "url": "https://www.linkedin.com/company/tech-innovators"
+    },
+    {
+      "id": 2,
+      "name": "Green Energy Corp",
+      "location": "Austin, TX",
+      "title": "Sustainable Energy Solutions",
+      "description": "Green Energy Corp provides innovative and sustainable energy solutions for a greener future.",
+      "url": "https://www.linkedin.com/company/green-energy-corp"
+    },
+    {
+      "id": 3,
+      "name": "Health Plus",
+      "location": "New York, NY",
+      "title": "Healthcare and Wellness",
+      "description": "Health Plus offers a wide range of healthcare and wellness services to keep you healthy.",
+      "url": "https://www.linkedin.com/company/health-plus"
+    },
+    {
+      "id": 4,
+      "name": "EduFuture",
+      "location": "Boston, MA",
+      "title": "Future of Education",
+      "description": "EduFuture is dedicated to transforming education with modern teaching methodologies and tools.",
+      "url": "https://www.linkedin.com/company/edufuture"
+    },
+    {
+      "id": 5,
+      "name": "AutoMotive Innovations",
+      "location": "Detroit, MI",
+      "title": "Advanced Automotive Technologies",
+      "description": "AutoMotive Innovations leads the way in developing advanced technologies for the automotive industry.",
+      "url": "https://www.linkedin.com/company/automotive-innovations"
+    },
+    {
+      "id": 6,
+      "name": "AeroSpace Dynamics",
+      "location": "Seattle, WA",
+      "title": "Aerospace Engineering",
+      "description": "AeroSpace Dynamics is at the forefront of aerospace engineering and innovation.",
+      "url": "https://www.linkedin.com/company/aerospace-dynamics"
+    },
+    {
+      "id": 7,
+      "name": "Fintech Solutions",
+      "location": "New York, NY",
+      "title": "Financial Technology",
+      "description": "Fintech Solutions provides state-of-the-art financial technology services and products.",
+      "url": "https://www.linkedin.com/company/fintech-solutions"
+    },
+    {
+      "id": 8,
+      "name": "BioMed Corp",
+      "location": "San Diego, CA",
+      "title": "Biomedical Research",
+      "description": "BioMed Corp conducts groundbreaking research in biomedical sciences and healthcare.",
+      "url": "https://www.linkedin.com/company/biomed-corp"
+    },
+    {
+      "id": 9,
+      "name": "AgriTech Innovations",
+      "location": "Des Moines, IA",
+      "title": "Agricultural Technology",
+      "description": "AgriTech Innovations develops advanced technologies to enhance agricultural productivity.",
+      "url": "https://www.linkedin.com/company/agritech-innovations"
+    },
+    {
+      "id": 10,
+      "name": "Retail Pioneers",
+      "location": "Chicago, IL",
+      "title": "Retail and E-commerce",
+      "description": "Retail Pioneers is revolutionizing the retail industry with innovative e-commerce solutions.",
+      "url": "https://www.linkedin.com/company/retail-pioneers"
+    },
+    {
+      "id": 11,
+      "name": "LogiTech Solutions",
+      "location": "Atlanta, GA",
+      "title": "Logistics and Transportation",
+      "description": "LogiTech Solutions provides cutting-edge logistics and transportation services.",
+      "url": "https://www.linkedin.com/company/logitech-solutions"
+    },
+    {
+      "id": 12,
+      "name": "CyberSecure Inc",
+      "location": "San Jose, CA",
+      "title": "Cybersecurity",
+      "description": "CyberSecure Inc offers comprehensive cybersecurity solutions to protect your digital assets.",
+      "url": "https://www.linkedin.com/company/cybersecure-inc"
+    },
+    {
+      "id": 13,
+      "name": "TravelTech",
+      "location": "Orlando, FL",
+      "title": "Travel and Tourism",
+      "description": "TravelTech enhances the travel and tourism experience with innovative technology solutions.",
+      "url": "https://www.linkedin.com/company/traveltech"
+    },
+    {
+      "id": 14,
+      "name": "Food Innovations",
+      "location": "Los Angeles, CA",
+      "title": "Food Technology",
+      "description": "Food Innovations develops cutting-edge technologies to improve food production and quality.",
+      "url": "https://www.linkedin.com/company/food-innovations"
+    },
+    {
+      "id": 15,
+      "name": "MediaWorks",
+      "location": "Hollywood, CA",
+      "title": "Media and Entertainment",
+      "description": "MediaWorks is a leader in media and entertainment, producing high-quality content and experiences.",
+      "url": "https://www.linkedin.com/company/media-works"
+    }
+]
+  

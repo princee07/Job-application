@@ -1,0 +1,118 @@
+/* MyProfile.css */
+
+.my-profile {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .my-profile h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .my-profile h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .my-profile form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .my-profile form label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    color: #666;
+  }
+  
+  .my-profile form label input,
+  .my-profile form label textarea {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .my-profile form label textarea {
+    resize: vertical;
+    min-height: 80px;
+  }
+  
+  .my-profile form button[type="button"] {
+    align-self: flex-start;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .my-profile form button[type="button"]:hover {
+    background-color: #0056b3;
+  }
+  
+  .my-profile form button[type="submit"] {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+    align-self: center;
+  }
+  
+  .my-profile form button[type="submit"]:hover {
+    background-color: #218838;
+  }
+  
+  .dynamic-section {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .dynamic-section label {
+    margin-bottom: 10px;
+  }
+  
+  .dynamic-section label input,
+  .dynamic-section label textarea {
+    margin-top: 3px;
+  }
+
+  select {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  @media (max-width: 600px) {
+    .my-profile {
+      padding: 15px;
+    }
+  
+    .my-profile form label input,
+    .my-profile form label textarea {
+      font-size: 14px;
+    }
+  
+    .my-profile form button {
+      font-size: 14px;
+    }
+  }
+  

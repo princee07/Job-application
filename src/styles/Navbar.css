@@ -1,0 +1,52 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar-logo a {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #0056b3;
+    text-decoration: none;
+}
+
+.navbar-menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-buttons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn {
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn.blue {
+    background-color: #0056b3;
+    color: white;
+}
+
+.btn.red {
+    background-color: #ff0000;
+    color: white;
+}
+
+.language-select {
+    padding: 5px;
+}
