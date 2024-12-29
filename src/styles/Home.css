@@ -1,0 +1,54 @@
+.home {
+    padding: 20px;
+}
+
+.home-header {
+    text-align: center;
+    background-color: #007bff;
+    padding: 40px 0;
+    color: white;
+}
+/* Home.css */
+/* Home.css */
+/* Home.css */
+/* Home.css */
+.home-header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    display: inline-block;
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden;
+    border-right: 4px solid transparent; /* This adds a blinking cursor effect */
+    animation: typing 4s steps(30) infinite, blink 0.75s step-end infinite;
+  }
+  
+  /* Typing effect */
+  @keyframes typing {
+    0% {
+      width: 0; /* Starts with no text visible */
+    }
+    50% {
+      width: 100%; /* Reveals all text halfway */
+    }
+    100% {
+      width: 0; /* Hides the text again to restart */
+    }
+  }
+  
+  /* Cursor blinking effect */
+  @keyframes blink {
+    50% {
+      border-color: transparent; /* Cursor disappears at 50% */
+    }
+    100% {
+      border-color: black; /* Cursor reappears at 100% */
+    }
+  }
+.job-section, .all-jobs-section {
+    margin-top: 40px;
+}
+
+.job-section h2, .all-jobs-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}

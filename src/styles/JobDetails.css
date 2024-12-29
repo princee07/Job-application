@@ -1,0 +1,128 @@
+.job-details-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.job-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.company-logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    border-radius: 10%;
+    object-fit: cover;
+}
+
+.company-name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.job-name {
+    font-size: 20px;
+}
+
+.apply-button-header {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.apply-button-header:hover {
+    background-color: #0056b3;
+}
+
+.job-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.job-description {
+    flex: 2;
+    margin-right: 20px;
+}
+
+.job-picture {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.job-details {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+.job-details h3 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.job-details p {
+    margin: 10px 0;
+    font-size: 14px;
+    color: #333;
+}
+
+.job-details p strong {
+    font-weight: bold;
+}
+
+.job-details hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+.qualifications-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.qualification-bubble {
+    padding: 10px 15px;
+    background-color: #72a8e2;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 14px;
+    display: inline-block;
+}
+
+.apply-button {
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.apply-button:hover {
+    background-color: #0056b3;
+}

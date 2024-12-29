@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Tata Consultancy Services (TCS)",
+    "location": "Mumbai, Maharashtra",
+    "title": "IT Services and Consulting",
+    "description": "TCS is a global leader in IT services, consulting, and business solutions."
+  },
+  {
+    "id": 2,
+    "name": "Reliance Industries",
+    "location": "Mumbai, Maharashtra",
+    "title": "Energy and Telecommunications",
+    "description": "Reliance Industries is a diversified conglomerate with interests in energy, telecommunications, and retail."
+  },
+  {
+    "id": 3,
+    "name": "Infosys",
+    "location": "Bengaluru, Karnataka",
+    "title": "IT Services and Digital Transformation",
+    "description": "Infosys provides IT services, digital transformation, and consulting to businesses worldwide."
+  },
+  {
+    "id": 4,
+    "name": "Wipro",
+    "location": "Bengaluru, Karnataka",
+    "title": "IT Services and Business Solutions",
+    "description": "Wipro offers IT, consulting, and business process services for global clients."
+  },
+  {
+    "id": 5,
+    "name": "Hindustan Unilever Limited (HUL)",
+    "location": "Mumbai, Maharashtra",
+    "title": "Consumer Goods",
+    "description": "HUL is a leading FMCG company providing household and personal care products."
+  },
+  {
+    "id": 6,
+    "name": "Mahindra Group",
+    "location": "Mumbai, Maharashtra",
+    "title": "Automotive and Technology",
+    "description": "Mahindra Group operates in automotive, IT, and agricultural machinery industries."
+  },
+  {
+    "id": 7,
+    "name": "Adani Group",
+    "location": "Ahmedabad, Gujarat",
+    "title": "Infrastructure and Energy",
+    "description": "Adani Group is a leader in infrastructure development, energy, and logistics."
+  },
+  {
+    "id": 8,
+    "name": "HCL Technologies",
+    "location": "Noida, Uttar Pradesh",
+    "title": "IT and Engineering Services",
+    "description": "HCL Technologies delivers IT and engineering solutions to businesses globally."
+  },
+  {
+    "id": 9,
+    "name": "Flipkart",
+    "location": "Bengaluru, Karnataka",
+    "title": "E-commerce and Retail",
+    "description": "Flipkart is India's leading e-commerce platform for a wide range of products."
+  },
+  {
+    "id": 10,
+    "name": "Zomato",
+    "location": "Gurugram, Haryana",
+    "title": "Food Delivery and Services",
+    "description": "Zomato is a leading platform for food delivery, dining, and restaurant reviews."
+  },
+  {
+    "id": 11,
+    "name": "Ola Cabs",
+    "location": "Bengaluru, Karnataka",
+    "title": "Ride-sharing and Transportation",
+    "description": "Ola is a popular ride-sharing platform offering a variety of transportation options."
+  },
+  {
+    "id": 12,
+    "name": "Bharat Biotech",
+    "location": "Hyderabad, Telangana",
+    "title": "Biotechnology and Vaccines",
+    "description": "Bharat Biotech is known for innovative vaccine development and biotechnology solutions."
+  },
+  {
+    "id": 13,
+    "name": "BYJU'S",
+    "location": "Bengaluru, Karnataka",
+    "title": "EdTech and Learning Solutions",
+    "description": "BYJU'S is a leader in educational technology, offering interactive learning experiences."
+  },
+  {
+    "id": 14,
+    "name": "Paytm",
+    "location": "Noida, Uttar Pradesh",
+    "title": "Financial Technology",
+    "description": "Paytm provides mobile payment, banking, and financial technology services."
+  },
+  {
+    "id": 15,
+    "name": "Amul",
+    "location": "Anand, Gujarat",
+    "title": "Dairy and Food Products",
+    "description": "Amul is a leading dairy cooperative, producing a variety of food products."
+  }
+]
